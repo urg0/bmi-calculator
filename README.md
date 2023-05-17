@@ -56,9 +56,7 @@ Interavtive BMI Calculator.
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-<img width="680" alt="coindom1" src="https://github.com/urg0/bmi-calculator/assets/81859377/47763521-cf24-4f6c-91b4-ee3d0fd18894">
-
+![image](https://github.com/urg0/bmi-calculator/assets/81859377/47763521-cf24-4f6c-91b4-ee3d0fd18894)
 
 
 A interactive BMI (body mass index) calculator that i developed when learning React. It calculates BMI based on entered weight and height. 
