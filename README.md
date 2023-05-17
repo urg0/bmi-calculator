@@ -11,7 +11,7 @@
 <h3 align="center">bmi-calculator</h3>
 
   <p align="center">
-Really simple calculator works like macOS calculator.
+Interavtive BMI Calculator.
     <br />
     <a href="https://github.com/urg0/react-calculator"><strong>Explore the docs »</strong></a>
     <br />
@@ -57,7 +57,7 @@ Really simple calculator works like macOS calculator.
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img width="1680" alt="coindom1" src="https://github.com/urg0/bmi-calculator/assets/81859377/47763521-cf24-4f6c-91b4-ee3d0fd18894">
+<img width="680" alt="coindom1" src="https://github.com/urg0/bmi-calculator/assets/81859377/47763521-cf24-4f6c-91b4-ee3d0fd18894">
 
 
 
